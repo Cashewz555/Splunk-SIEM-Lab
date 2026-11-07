@@ -28,10 +28,10 @@ To test the pipeline, I executed a baseline process (`calc.exe`) on the victim V
 
 ```spl
 index=main EventCode=1 Image="*calc.exe"
+```
 
 
-
-## Srceenshot
+## Screenshot
 <img width="590" height="413" alt="Screenshot 2026-11-07 052031" src="https://github.com/user-attachments/assets/749f311c-3b32-4213-95cb-545c2cb6c6fe" />
 <img width="512" height="388" alt="Screenshot 2026-11-06 210221" src="https://github.com/user-attachments/assets/c87a317f-bbce-419d-9c9c-c1a8cb8f0b91" />
 <img width="960" height="504" alt="Screenshot 2026-11-06 204555" src="https://github.com/user-attachments/assets/9c4744e3-a7c9-44da-82f1-46031018b746" />
